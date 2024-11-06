@@ -1,4 +1,4 @@
 # Platformer
 
-Üniversitedeki oyun geliştirme dersi için geliştirdiğim basit platformer oyunu.
+Üniversitedeki oyun programlama dersim için geliştirdiğim basit platformer oyunu.
 
